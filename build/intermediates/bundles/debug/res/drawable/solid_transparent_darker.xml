@@ -4,4 +4,4 @@
         xmlns:android="http://schemas.android.com/apk/res/android"
         android:shape="rectangle">
     <solid android:color="#88000000"/>
-</shape>
+</shape><!-- From: file:/Users/faraj/Desktop/viewpagerindicator/res/drawable/solid_transparent_darker.xml -->
