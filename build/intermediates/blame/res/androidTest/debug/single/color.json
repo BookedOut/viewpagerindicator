@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/faraj/Documents/androidWorkspace/booked-out-freelancer-android/libraries/viewpagerindicator/build/intermediates/res/merged/androidTest/debug/color/vpi__light_theme.xml",
+        "source": "/Users/faraj/Documents/androidWorkspace/booked-out-freelancer-android/libraries/viewpagerindicator/build/intermediates/bundles/debug/res/color/vpi__light_theme.xml"
+    },
+    {
+        "merged": "/Users/faraj/Documents/androidWorkspace/booked-out-freelancer-android/libraries/viewpagerindicator/build/intermediates/res/merged/androidTest/debug/color/selector_white_text_tabs.xml",
+        "source": "/Users/faraj/Documents/androidWorkspace/booked-out-freelancer-android/libraries/viewpagerindicator/build/intermediates/bundles/debug/res/color/selector_white_text_tabs.xml"
+    },
+    {
+        "merged": "/Users/faraj/Documents/androidWorkspace/booked-out-freelancer-android/libraries/viewpagerindicator/build/intermediates/res/merged/androidTest/debug/color/vpi__dark_theme.xml",
+        "source": "/Users/faraj/Documents/androidWorkspace/booked-out-freelancer-android/libraries/viewpagerindicator/build/intermediates/bundles/debug/res/color/vpi__dark_theme.xml"
+    }
+]
